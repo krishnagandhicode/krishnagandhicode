@@ -2,6 +2,8 @@
 Portfolio: https://krishna-gandhi.netlify.app/
 
 LinkedIn: https://www.linkedin.com/in/krishna-gandhi-go/
+
+Old GitHub Account: https://github.com/krishnaGandhi11
 <!--
 **krishnagandhicode/krishnagandhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
