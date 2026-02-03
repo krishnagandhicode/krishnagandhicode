@@ -1,4 +1,4 @@
-- Web Development and AI
+- Web Development | AI | java | javaScript 
 - Portfolio: https://krishna-gandhi.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/krishna-gandhi-go/
 
