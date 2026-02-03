@@ -1,7 +1,6 @@
 - Web Development and AI
 - Portfolio: https://krishna-gandhi.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/krishna-gandhi-go/
-- My new profile: https://github.com/krishnagandhicode
 
 <!---
 krishnaGandhi11/krishnaGandhi11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
