@@ -1,4 +1,4 @@
-Web Development | Joomla | DSA 
+Web Development | Joomla! Core Contributer | Joomla! PD Bug Squad Member 
 
 Tech:
 Java | PHP | JavaScript | Python | APIs | Machine Learning | AI
