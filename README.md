@@ -1,4 +1,4 @@
-Web Development | @Joomla! PD Bug Squad Member 
+Web Development | Joomla! PD Bug Squad Member 
 
 Tech:
 Java | PHP | JavaScript | Python | APIs | Machine Learning | AI
