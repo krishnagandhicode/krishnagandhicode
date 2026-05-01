@@ -1,4 +1,4 @@
-Web Development | Joomla! PD Bug Squad Member 
+GSoC ’26 Contributor @ Joomla! | Core Contributor | Web Developer | AI & RAG | Joomla! PD Bug Squad Member 
 
 Tech:
 Java | PHP | JavaScript | Python | APIs | Machine Learning | AI
