@@ -1,6 +1,6 @@
-GSoC ’26 Contributor @ Joomla! | Core Contributor | Web Developer | AI & RAG | Joomla! PD Bug Squad Member 
+ Web Developer | GSoC ’26 Contributor @joomla! | AI & RAG Automation | Joomla! PD Bug Squad Member 
 
-Tech:
+Tech/Skills:
 Java | PHP | JavaScript | Python | APIs | Machine Learning | AI
 
 Proflies : [LinkedIn](https://www.linkedin.com/in/krishnagandhicode/) | [Portfolio](https://krishnagandhi.me) | [LeetCode](https://leetcode.com/u/krishna-Gandhi/) 
